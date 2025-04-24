@@ -1,0 +1,22 @@
+h1, h2, h3, h4 {
+    color: green;
+    font-size: 30px;
+}
+h1 {
+    color: coral;
+    /* color: rgba(255, 120, 100, 0.5); */
+}
+
+.uppercase {
+    text-transform: uppercase;
+    color: hotpink;
+    background-color: black;
+}
+
+.important {
+    color: orchid;
+    background-color: darkorange;
+}
+#the-one {
+    color: cornflowerblue;
+}
